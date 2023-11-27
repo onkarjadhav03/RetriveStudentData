@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Studentdetails\Studentdetails\bin\Debug\Studentdetails.exe.config
+D:\mphasis\dotnet\Studentdetails\Studentdetails\bin\Debug\Studentdetails.exe
+D:\mphasis\dotnet\Studentdetails\Studentdetails\bin\Debug\Studentdetails.pdb
+D:\mphasis\dotnet\Studentdetails\Studentdetails\obj\Debug\Studentdetails.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Studentdetails\Studentdetails\obj\Debug\Studentdetails.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Studentdetails\Studentdetails\obj\Debug\Studentdetails.exe
+D:\mphasis\dotnet\Studentdetails\Studentdetails\obj\Debug\Studentdetails.pdb
